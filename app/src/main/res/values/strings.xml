@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodStore</string>
+    <string name="logo_txt">Fast Food</string>
+    <string name="bottom_text">Food delivery App</string>
+    <string name="get_started">Get Started</string>
+    <string name="empty_cart">Your Cart is Empty</string>
+</resources>
